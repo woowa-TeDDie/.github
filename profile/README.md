@@ -300,7 +300,7 @@ python main.py
 ### 3. LM Studio 설정
 
 1. LM Studio 다운로드 및 설치
-2. 모델 다운로드 (예: Llama 3.1 8B)
+2. 모델 다운로드 (오픈소스 모델: a.x-4.0-light)
 3. Local Server 시작
 4. 포트 확인: `http://localhost:1234`
 
@@ -596,53 +596,21 @@ private String cleanTestValue(String value) {
 **결과:**
 - 안정적인 리팩토링
 - 빠른 버그 발견
-- 자신감 있는 배포
 
 ---
 
 ## 🔮 향후 계획
 
 - [ ] 웹 인터페이스 추가 (React)
-- [ ] 문제 난이도 자동 조정
 - [ ] 사용자 피드백 시스템
 - [ ] 생성된 문제 공유 플랫폼
 - [ ] 다양한 프로그래밍 언어 지원
 
 ---
 
-## 🤝 기여하기
-
-기여는 언제나 환영합니다!
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
----
-
-## 📝 라이선스
-
-이 프로젝트는 MIT 라이선스를 따릅니다. 자세한 내용은 [LICENSE](LICENSE) 파일을 참조하세요.
-
----
-
 ## 👨‍💻 개발자
 
 **정용태** ([@jyt6640](https://github.com/jyt6640))
-
-- 우아한테크코스 7기 프리코스 참여
-- TeDDie를 우테코 오픈 미션으로 제출
-
----
-
-## 🙏 감사의 말
-
-- **우아한테크코스**: 프리코스 과제 및 학습 철학 제공
-- **LM Studio**: 로컬 LLM 실행 환경
-- **FAISS**: 효율적인 벡터 검색 라이브러리
-- **Sentence Transformers**: 다국어 임베딩 모델
 
 ---
 
