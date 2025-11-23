@@ -239,7 +239,7 @@ java-lotto/
 | **플랫폼** | LM Studio (GUI) |
 | **포트** | 1234 |
 | **프로토콜** | HTTP/1.1 (OpenAI Compatible) |
-| **추천 모델** | Llama 3.1, Qwen, Mistral 계열 |
+| **사용 모델** | a.x-4.0-light |
 
 ---
 
